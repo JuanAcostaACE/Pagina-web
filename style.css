@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+}
+
+header {
+    background-color: #1e1e1e;
+    padding: 20px;
+    text-align: center;
+}
+
+nav button {
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.xbox-btn {
+    background-color: #107c10; /* Verde Xbox */
+}
+
+.playstation-btn {
+    background-color: #003791; /* Azul PlayStation */
+}
+
+.nintendo-btn {
+    background-color: #e60012; /* Rojo Nintendo */
+}
+
+.recomendaciones {
+    padding: 20px;
+    text-align: center;
+}
+
+.juego-seleccionado {
+    padding: 20px;
+    text-align: center;
+}
+
+.juego-seleccionado img {
+    width: 200px;
+    height: auto;
+}
+
+.juego-seleccionado button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.carrito {
+    display: none;
+    padding: 20px;
+    background-color: #1e1e1e;
+}
+
+.carrito ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #1e1e1e;
+    padding: 10px;
+    text-align: center;
+}
